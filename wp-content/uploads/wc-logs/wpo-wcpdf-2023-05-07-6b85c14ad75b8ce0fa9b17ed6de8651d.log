@@ -1,0 +1,2 @@
+2023-05-07T19:06:34+00:00 INFO Template setting migrated from C:/xampp/htdocs/informatica_moderna/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2023-05-07T19:06:37+00:00 CRITICAL Table 'informatica_moderna.wp_wcpdf_invoice_number' doesn't exist

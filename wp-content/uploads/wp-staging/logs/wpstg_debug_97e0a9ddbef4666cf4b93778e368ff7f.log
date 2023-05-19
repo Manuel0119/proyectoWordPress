@@ -1,0 +1,1 @@
+[WP STAGING Shutdown Function][E_WARNING][2023-05-14 16:22:56] Undefined property: stdClass::$clone - File: C:\xampp\htdocs\informatica_moderna\wp-content\plugins\wp-staging\Backend\Modules\Jobs\Job.php Line: 107 | Is it Fatal Error? No | Is it Thrown by WP STAGING? Yes
